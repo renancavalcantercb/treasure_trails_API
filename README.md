@@ -14,33 +14,32 @@ This is a API to get the stats of a Treasure Trails from a given username in Run
 
 + `/treasure_trails/cutguardlan`
   + `200 OK`
- 
-    ```json
+  ```json
     [
       {
         "tier": "Easy",
-        "quantity": "10001",
-        "rank": "25"
+        "quantity": "7125",
+        "rank": "47"
       },
       {
         "tier": "Medium",
-        "quantity": "822",
-        "rank": "818"
+        "quantity": "10",
+        "rank": "62912"
       },
       {
         "tier": "Hard",
-        "quantity": "2624",
-        "rank": "2595"
+        "quantity": "5016",
+        "rank": "1103"
       },
       {
         "tier": "Elite",
-        "quantity": "1141",
-        "rank": "2829"
+        "quantity": "512",
+        "rank": "8614"
       },
       {
         "tier": "Master",
-        "quantity": "801",
-        "rank": "1326"
+        "quantity": "808",
+        "rank": "1300"
       }
     ]
-    ```
+  ```
